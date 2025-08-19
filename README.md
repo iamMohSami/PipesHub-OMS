@@ -41,13 +41,13 @@ We were asked to implement a **basic Order Management System** with the followin
 
 ## 📊 System Architecture Diagram
 
-![system architecture](image.png)
+![system architecture](Images/image.png)
 
 ---
 
 ## 📖 Order Lifecycle (Simplified)
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 ---
 
